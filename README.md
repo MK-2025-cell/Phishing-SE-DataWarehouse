@@ -88,5 +88,5 @@ python3 mining/classify.py
 
 - **Maya KC** ([@MK-2025-cell](https://github.com/MK-2025-cell)) — Computer Science, Asian University for Women
 - **Tamana Fazel** ([@fazeltamana](https://github.com/fazeltamana)) — Computer Science, Asian University for Women
-- **Lipi Sarkar** ([@LipiSarkar]https://github.com/LipiSarkar-crd) — Computer Science, Asian University for Women
+- **Lipi Sarkar** ([@LipiSarkar-crd]https://github.com/LipiSarkar-crd) — Computer Science, Asian University for Women
 
