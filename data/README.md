@@ -1,7 +1,6 @@
 # Data Sources
 
-Raw third-party datasets are not committed to this repo due to licensing/redistribution
-considerations. Obtain them directly from the original sources below:
+The raw data original sources are given below:
 
 - **phreshphish** — https://huggingface.co/datasets/phreshphish/phreshphish
 - **OpenPhish (Kaggle mirror)** — https://www.kaggle.com/datasets/shantanu199/openphish-malicious-urls
